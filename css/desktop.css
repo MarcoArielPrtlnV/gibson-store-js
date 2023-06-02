@@ -8,7 +8,7 @@
     .header__logo {
   
       padding: 0;
-      margin-left: 50px;
+      margin-left: 80px;
     }
      
  /*  .menu {
@@ -32,6 +32,7 @@
   .nav {
   
       margin: 0 auto;
+      margin-left: -30px;
   }
   
   .nav__list {
@@ -53,7 +54,7 @@
       
       text-decoration: none;
       color: white;
-      font-size: 1.5rem;
+      font-size: 1.8rem;
       font-weight: bold;
       
       
