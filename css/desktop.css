@@ -1,0 +1,158 @@
+@media(min-width:1024px) {
+
+    .header {
+  
+      height: 100px;
+    }
+  
+    .header__logo {
+  
+      padding: 0;
+      margin-left: 80px;
+    }
+     
+ /*  .menu {
+  
+      display: none;
+  } */
+
+
+  .open-menu {
+
+    display: none;
+  }
+
+  .panel,
+  .close {
+
+    display: none;
+  }
+
+
+  .nav {
+  
+      margin: 0 auto;
+      margin-left: -30px;
+  }
+  
+  .nav__list {
+  
+      display: flex;
+      margin-top: 10px;
+      list-style: none;
+      
+  }
+  
+  .nav li {
+  
+      margin: 0 20px;
+     
+  }
+  
+  .nav__list li a {
+  
+      
+      text-decoration: none;
+      color: white;
+      font-size: 1.8rem;
+      font-weight: bold;
+      
+      
+  } 
+  
+  
+  .cart-icon {
+  
+      margin: 0 60px;
+  }
+  
+     .section {
+  
+      display: flex;
+  
+     }
+  
+     #walnut {
+  
+      width: 27rem;
+     }
+  
+    
+  
+     
+   .description__title h2 {
+      font-size: 3rem;
+      margin-bottom: 30px;
+   }
+  
+  .finish, .handedness {
+  
+      font-size: 1.7rem;
+      margin-bottom: 30px;
+  }
+  
+  .handedness  {
+  
+      margin-top: -25px;
+  }
+  
+     .desciption__row {
+  
+      margin-bottom: 80px;
+     }
+  
+    
+  
+     .figure__title {
+  
+      font-size: 2.5rem;
+     }
+  
+     .figure__text {
+  
+      padding: 50px;
+      font-size: 2.0rem;
+      margin-top: -15px;
+     }
+  
+     #walnut {
+  
+      width: 27rem;
+     }
+  
+     .product-figure__span {
+  
+      font-size: 1.5rem;
+     }
+  
+     .product-figure__p {
+  
+      font-size: 1.3rem ;
+     }
+  
+     .email-capture__title {
+  
+      font-size: 1.5rem;
+     }
+  
+     .suscribe {
+  
+      font-size: 1.2rem;
+     }
+  
+     .terms-conditions__text {
+  
+      font-size: 1.1rem;
+     }
+  
+     .footer__common-wrapper {
+  
+      display: flex;
+      justify-content: space-evenly;
+     }
+  
+  }
+  
+  
+      
+  
